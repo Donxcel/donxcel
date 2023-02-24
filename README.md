@@ -1,4 +1,4 @@
-### Hi, I am LEGIMA DONAL a Python Developer in Machine learning 👋
+### Hi, I am LEGIMA DONAL a Python Developer specialized in data Science and Machine learning 👋
 
 <!--
 **Donxcel/donxcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
